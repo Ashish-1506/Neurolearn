@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.0",
+    "@types/react-transition-group": "^4.4.12",
+    "chart.js": "^4.5.1",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.552.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-circular-progressbar": "^2.2.0",
+    "react-transition-group": "^4.4.5",
+    "three": "^0.181.1"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.9.41"
+  }
+}
