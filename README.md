@@ -48,7 +48,7 @@ Follow these steps to get NeuroLearn running locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/neurolearn.git
+git clone https://github.com/Ashish-1506/Neurolearn.git
 cd neurolearn
 ```
 
